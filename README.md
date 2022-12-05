@@ -28,7 +28,7 @@ A program is made on the Colab platform based on what has been learned during Pr
 
 [![Aspose-Words-201be7f2-5c67-4fde-b0ac-ffc944e8e01a-001.png](https://i.postimg.cc/PJyyD5yH/Aspose-Words-201be7f2-5c67-4fde-b0ac-ffc944e8e01a-001.png)](https://postimg.cc/D4W1kFRp)
 
-1  ## **Desarrollo**
+## **Desarrollo**
 Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes. Python permite que los desarrolladores sean más productivos, ya que pueden escribir un programa de Python con menos líneas de código en comparación con muchos otros lenguajes.
 
 La geo localización consiste en obtener la ubicación geográfica de un objeto como puede ser un teléfono móvil, un coche o un una calle. Para ello se puede utilizar diferentes métodos como por ejemplo comprobar el código postal de una carta, la dirección IP de un equipo o el sistema GPS de nuestro teléfono móvil.
