@@ -1,4 +1,4 @@
-1. # **Lectura de datos GPS con Python**
+# **Lectura de datos GPS con Python**
 *Reading GPS data with Python*
 
 ` `**Cisneros Castillo Manuel Guadalupe (1), De la Torre Venegas Martha Julia (2), Mancilla Vargas Raul  Said (3)**
@@ -12,20 +12,27 @@ Cisneros Castillo, Manuel Guadalupe; De la torre Venegas, Martha Julia; Mancilla
 
 Se realiza un programa en la plataforma Colab con base a lo aprendido durante las clases de Programación ll, el cual es capaz de leer datos de coordenadas de un punto sobre la superficie terrestre y poder representarlas en un mapa didáctico lo cual muestre los puntos que fueron importados desde un archivo csv.
 
-**Palabras clave**: Python, proyecto, datos,   colab,  superficie terrestre, programación  II.
 
-##**Introducción**
+**Palabras clave**: 
+
+Python, proyecto, datos,   colab,  superficie terrestre, programación  II.
+
+
+**Abstract:**
+
+A program is made on the Colab platform based on what has been learned during Programming II classes, which is capable of reading coordinate data from a point on the earth's surface and being able to represent them on a didactic map which shows the points that were imported from a csv file.
+
+
+**Keywords:** 
+
+Python, project, data, colab, terrestrial surface,  programming  II.
+
+## **Introducción**
 En el presente reporte se redacta cada uno de los pasos que fueron necesarios para la elaboración del producto final, que parte de los conocimientos básicos adquiridos durante el transcurso de la materia de Programación de Computadoras ll, así como también de la rigurosa búsqueda necesaria de información individual.
 
 Se plasma el proceso de elaboración en conjunto del objetivo general que abarca ampliamente a lo que se busca llegar con el resultado final, así como de los objetivos específicos que fueron necesarios para la conformación del producto final. 
 
 Una vez explicado todo el proceso mediante hipótesis, criterios basados en información existente y con base a los resultados obtenidos se recata un apartado de conclusiones en el que cada integrante redacta su experiencia tanto individual como de equipo durante el desarrollo del mismo.
-
-**Abstract**
-
-A program is made on the Colab platform based on what has been learned during Programming II classes, which is capable of reading coordinate data from a point on the earth's surface and being able to represent them on a didactic map which shows the points that were imported from a csv file.
-
-**Keywords:** Python, project, data, colab, terrestrial surface,  programming  II.
 
 [![Aspose-Words-201be7f2-5c67-4fde-b0ac-ffc944e8e01a-001.png](https://i.postimg.cc/PJyyD5yH/Aspose-Words-201be7f2-5c67-4fde-b0ac-ffc944e8e01a-001.png)](https://postimg.cc/D4W1kFRp)
 
