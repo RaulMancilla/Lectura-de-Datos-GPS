@@ -13,7 +13,8 @@ Cisneros Castillo, Manuel Guadalupe; De la torre Venegas, Martha Julia; Mancilla
 Se realiza un programa en la plataforma Colab con base a lo aprendido durante las clases de Programación ll, el cual es capaz de leer datos de coordenadas de un punto sobre la superficie terrestre y poder representarlas en un mapa didáctico lo cual muestre los puntos que fueron importados desde un archivo csv.
 
 **Palabras clave**: Python, proyecto, datos,   colab,  superficie terrestre, programación  II.
-1  ## ![](Aspose.Words.201be7f2-5c67-4fde-b0ac-ffc944e8e01a.001.png)**Introducción**
+
+##**Introducción**
 En el presente reporte se redacta cada uno de los pasos que fueron necesarios para la elaboración del producto final, que parte de los conocimientos básicos adquiridos durante el transcurso de la materia de Programación de Computadoras ll, así como también de la rigurosa búsqueda necesaria de información individual.
 
 Se plasma el proceso de elaboración en conjunto del objetivo general que abarca ampliamente a lo que se busca llegar con el resultado final, así como de los objetivos específicos que fueron necesarios para la conformación del producto final. 
