@@ -1,17 +1,7 @@
 [![Aspose-Words-f708d298-ce78-40fa-86e4-14de3b3fa0d4-001.png](https://i.postimg.cc/pLGQ8ypp/Aspose-Words-f708d298-ce78-40fa-86e4-14de3b3fa0d4-001.png)](https://postimg.cc/5XzFW45V)
 
 
- Facultad de Ingeniería Civil
- Ingeniero Topográfo Geomatico
- Programacion II
- Mtro. Sebastián Gonzales Zepeda
- Lectura de datos GPS en python
- Ubicación: Campus Coquimatlan, Facultad de Ingeniería Civil
- Integrantes:
- Manuel Cisneros Castillo 3°B
- Martha Julia De la Torre Venegas 3°B
- Raul Said Mancilla Vargas 3°B
-`15 de Noviembre del 2022
+ Facultad de Ingeniería Civil<br>Ingeniero Topográfo Geomatico<br>Programacion II<br>Mtro. Sebastián Gonzales Zepeda<br>Lectura de datos GPS en python<br>Ubicación: Campus Coquimatlan, Facultad de Ingeniería Civil<br>Integrantes:<br>Manuel Cisneros Castillo 3°B<br>Martha Julia De la Torre Venegas 3°B<br>Raul Said Mancilla Vargas 3°B<br>15 de Noviembre del 2022
 
 
 # **Lectura de datos GPS con Python**
