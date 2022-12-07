@@ -1,30 +1,16 @@
 [![Aspose-Words-f708d298-ce78-40fa-86e4-14de3b3fa0d4-001.png](https://i.postimg.cc/pLGQ8ypp/Aspose-Words-f708d298-ce78-40fa-86e4-14de3b3fa0d4-001.png)](https://postimg.cc/5XzFW45V)
 
 
-
-
-
-
  Facultad de Ingeniería Civil
-
  Ingeniero Topográfo Geomatico
-
  Programacion II
-
  Mtro. Sebastián Gonzales Zepeda
-
  Lectura de datos GPS en python
-
  Ubicación: Campus Coquimatlan, Facultad de Ingeniería Civil
-
  Integrantes:
-
  Manuel Cisneros Castillo 3°B
-
  Martha Julia De la Torre Venegas 3°B
-
  Raul Said Mancilla Vargas 3°B
-
 `15 de Noviembre del 2022
 
 
@@ -41,20 +27,13 @@ Cisneros Castillo, Manuel Guadalupe; De la torre Venegas, Martha Julia; Mancilla
 **Resumen:**
 
 Se realiza un programa en la plataforma Colab con base a lo aprendido durante las clases de Programación ll, el cual es capaz de leer datos de coordenadas de un punto sobre la superficie terrestre y poder representarlas en un mapa didáctico lo cual muestre los puntos que fueron importados desde un archivo csv.
-
-
 **Palabras clave**: 
-
 Python, proyecto, datos,   colab,  superficie terrestre, programación  II.
-
 
 **Abstract:**
 
 A program is made on the Colab platform based on what has been learned during Programming II classes, which is capable of reading coordinate data from a point on the earth's surface and being able to represent them on a didactic map which shows the points that were imported from a csv file.
-
-
 **Keywords:** 
-
 Python, project, data, colab, terrestrial surface,  programming  II.
 
 ## **Introducción**
